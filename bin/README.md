@@ -12,4 +12,4 @@
 建议使用 GPL 版本，并把 `ffmpeg.exe` 单独复制到这里。
 
 普通用户不需要这些：直接下载 Releases 中的
-`随舞剪辑台_v1.1.0_便携版.zip`，解压后就包含 `bin\ffmpeg.exe` 和精简 Python 运行时。
+`suibu-cut_v1.1.0_portable.zip`，解压后就包含 `bin\ffmpeg.exe` 和精简 Python 运行时。

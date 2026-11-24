@@ -9,8 +9,8 @@
 ## 下载
 
 - **便携版（推荐给使用者）**：到 [Releases](https://github.com/DcSyaA/suibu-cut/releases/latest) 下载最新的
-  `随舞剪辑台_v1.1.0_便携版.zip`，解压后双击 `随舞剪辑台.exe` 即可。压缩包自带 FFmpeg 与精简 Python 运行时，
-  无需安装任何依赖，解压后约 90 MB。
+  `suibu-cut_v1.1.0_portable.zip`（显示名为「随舞剪辑台 v1.1.0 便携版」），解压后双击 `随舞剪辑台.exe` 即可。
+  压缩包自带 FFmpeg 与精简 Python 运行时，无需安装任何依赖，解压后约 90 MB。
 - **源码（给开发者）**：克隆本仓库后从源码运行，见下文「[开发者信息](#开发者信息)」。
   源码仓库不包含 `bin\ffmpeg.exe` 和 `runtime\`，需要自行准备，见 [`bin/README.md`](bin/README.md)。
 
