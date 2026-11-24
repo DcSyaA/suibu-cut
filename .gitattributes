@@ -1,0 +1,14 @@
+# 统一换行符，避免不同平台 clone 后出现整文件 diff
+* text=auto
+
+*.py   text eol=lf
+*.md   text eol=lf
+*.cs   text eol=lf
+*.json text eol=lf
+*.txt  text eol=lf
+*.cmd  text eol=crlf
+
+*.png  binary
+*.ico  binary
+*.exe  binary
+*.zip  binary
